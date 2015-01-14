@@ -1,5 +1,6 @@
 # Javascript Challenges
-This book will challenge you to learn and understand the most obscure and tricky parts of Javascript.
+This book will challenge you to learn and understand the most obscure and tricky parts of Javascript1. 
+.
 
 In order to perform the best that you can I recommend you not to cheat taking a look at solutions before you suggest one.
 
